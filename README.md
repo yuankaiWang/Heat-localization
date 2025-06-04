@@ -1,8 +1,3 @@
-# Tri2D-Net for CVD Risk Estimation
-
-[![DOI](https://zenodo.org/badge/256093026.svg)](https://zenodo.org/badge/latestdoi/256093026)
-
-Tri2D-Net is the **first** deep learning network trained for directly estimating **overall** cardiovascular disease (CVD) risks on low dose computed tomography (LDCT). The corresponding [paper](https://www.nature.com/articles/s41467-021-23235-4) has been published on Nature Communications.
 
 ## Prerequisites
 
