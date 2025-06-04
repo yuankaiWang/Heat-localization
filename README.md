@@ -57,27 +57,3 @@ A real number in \[0, 1\] indicates the estimated CVD risk.
 We uploaded 4 demos in the `./demo` folder, including one CVD negative case and three CVD positive case. One of the CVD positive subjects died because of CVD in the trial. 
 
 The name of the file indicates its label and the CAC grade evaluated by our radiologists.
-
-
-## Citation
-Please cite these papers in your publications if the code helps your research:
-```
-@Article{chao2021deep,
-  author  = {Chao, Hanqing and Shan, Hongming and Homayounieh, Fatemeh and Singh, Ramandeep and Khera, Ruhani Doda and Guo, Hengtao and Su, Timothy and Wang, Ge and Kalra, Mannudeep K. and Yan, Pingkun},
-  title   = {Deep learning predicts cardiovascular disease risks from lung cancer screening low dose computed tomography},
-  journal = {Nature Communications},
-  year    = {2021},
-  volume  = {12},
-  number  = {1},
-  pages   = {2963},
-  url     = {https://doi.org/10.1038/s41467-021-23235-4},
-}
-```
-Link to paper:
-- [Deep Learning Predicts Cardiovascular Disease Risks from Lung Cancer Screening Low Dose Computed Tomography](https://www.nature.com/articles/s41467-021-23235-4)
-
-
-## License
-The source code of Tri2D-Net is licensed under a MIT-style license, as found in the [LICENSE](LICENSE) file.
-This code is only freely available for non-commercial use, and may be redistributed under these conditions.
-For commercial queries, please contact [Dr. Pingkun Yan](https://dial.rpi.edu/people/pingkun-yan).
